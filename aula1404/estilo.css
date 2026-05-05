@@ -1,0 +1,44 @@
+div{
+    font-family:"Italic";
+    color:rgb(232, 232, 236);
+    
+}
+body {
+  background-color: black;
+  font-size: 16px;
+}
+}
+    
+
+h1{
+   color:red;
+   
+}
+h2{
+            color: red;
+           
+            
+        }
+
+img/Forme_hybride_de_Ragnir.webp {
+  height: 200px;
+  width: 50%;
+  background-color: powderblue;
+}
+body{
+    font-family:"Italic";
+    color:rgb(232, 232, 236);
+    
+}
+img{
+  border: 10px solid white;
+    padding: 10px;
+}
+.centro{
+  display: block;
+  margin: 0 auto;
+}
+h1::before {
+  content: "🗿 ";
+  color:red
+}
